@@ -1,4 +1,4 @@
-#DECOMPILE BY Aitzaz 
+#DECOMPILE BY Aitzaz Xwd
 #FILE NAME (AITZAZ-DEC)
 W = '\033[97;1m'
 R = '\033[91;1m'
