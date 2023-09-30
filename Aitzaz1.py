@@ -427,10 +427,6 @@ class Main:
 		elif baloch in ["2", "02"]:
 			print("    CHAL BAGH 🤭")
 			os.system("xdg-open http://Wa.me/+923309353743")
- r1=requests.get("https://raw.githubusercontent.com/aitzaz5547/F-7/main/Approval.txt").
-text
-if key1 in r1:
-Main()
 			exit()
 		elif baloch in ["1", "01"]:
 			os.system("xdg-open https://www.youtube.com/channel/UCJqMOJFws81Ggw-SXen0nog")
